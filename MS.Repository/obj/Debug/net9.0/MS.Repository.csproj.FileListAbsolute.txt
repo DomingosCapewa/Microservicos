@@ -1,0 +1,15 @@
+C:\Users\dscw\My Private Documents\estudoMS\MS.Repository\bin\Debug\net9.0\MS.Repository.deps.json
+C:\Users\dscw\My Private Documents\estudoMS\MS.Repository\bin\Debug\net9.0\MS.Repository.dll
+C:\Users\dscw\My Private Documents\estudoMS\MS.Repository\bin\Debug\net9.0\MS.Repository.pdb
+C:\Users\dscw\My Private Documents\estudoMS\MS.Repository\bin\Debug\net9.0\MS.Domain.dll
+C:\Users\dscw\My Private Documents\estudoMS\MS.Repository\bin\Debug\net9.0\MS.Domain.pdb
+C:\Users\dscw\My Private Documents\estudoMS\MS.Repository\obj\Debug\net9.0\MS.Repository.csproj.AssemblyReference.cache
+C:\Users\dscw\My Private Documents\estudoMS\MS.Repository\obj\Debug\net9.0\MS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dscw\My Private Documents\estudoMS\MS.Repository\obj\Debug\net9.0\MS.Repository.AssemblyInfoInputs.cache
+C:\Users\dscw\My Private Documents\estudoMS\MS.Repository\obj\Debug\net9.0\MS.Repository.AssemblyInfo.cs
+C:\Users\dscw\My Private Documents\estudoMS\MS.Repository\obj\Debug\net9.0\MS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\dscw\My Private Documents\estudoMS\MS.Repository\obj\Debug\net9.0\MS.Repos.FFBFDAA9.Up2Date
+C:\Users\dscw\My Private Documents\estudoMS\MS.Repository\obj\Debug\net9.0\MS.Repository.dll
+C:\Users\dscw\My Private Documents\estudoMS\MS.Repository\obj\Debug\net9.0\refint\MS.Repository.dll
+C:\Users\dscw\My Private Documents\estudoMS\MS.Repository\obj\Debug\net9.0\MS.Repository.pdb
+C:\Users\dscw\My Private Documents\estudoMS\MS.Repository\obj\Debug\net9.0\ref\MS.Repository.dll
